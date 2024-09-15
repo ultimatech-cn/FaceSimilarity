@@ -6,7 +6,17 @@ This node utilizes Face++'s facial recognition and comparison algorithms by dire
 ## Installation:
 Simply place the file faceSimilarity.py in the custom_node directory.
 
-# 说明
+##Usage
+Adding your Face++ API Key and Secret to the 
+<img width="635" alt="1726375771417" src="https://github.com/user-attachments/assets/9f0b2fd4-2750-41fa-93f3-4cd876e940dd">
+
+
+## 中文说明
 这个节点使用了Face++的脸部识别和比较算法，直接调用Face++的API，在流程中用法如下
 ## 安装
 只需要把文件放到 custom_node目录下即可。
+##使用
+把Face++ API Key and Secret 加到代码里。
+作者为大家提供免费的API-KEY,可以使用200次。可以直接关注公众号，发送“Face++”索取。
+![3989ede48737e23424843acd2ea2381](https://github.com/user-attachments/assets/32fc61cf-e04b-4c0a-816e-5d64d7d3635e)
+
