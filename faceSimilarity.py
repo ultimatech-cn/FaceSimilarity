@@ -85,8 +85,8 @@ class SimilarityPM:
         }
         
         data = {
-            'api_key': '0X5sv_4sHURazhR5qjWmlykNMW1LWLWj',
-            'api_secret':  '21TxSI1HAvxn94SqEnhxEgC3mpBbikww'
+            'api_key': 'm2CNvcGxPOPNBdGG5QreQYe2U2uqRDaB',
+            'api_secret':  'NKC8Nsyt4x9A_Wa_sA1s-VpTWoYdp2QC'
         }
 
         try:
@@ -132,8 +132,8 @@ class FaceAnylysePM:
             'image_file': image_data1           
         }
         params = {
-            'api_key': '0X5sv_4sHURazhR5qjWmlykNMW1LWLWj',
-            'api_secret': '21TxSI1HAvxn94SqEnhxEgC3mpBbikww',
+            'api_key': 'm2CNvcGxPOPNBdGG5QreQYe2U2uqRDaB',
+            'api_secret': 'NKC8Nsyt4x9A_Wa_sA1s-VpTWoYdp2QC',
             'return_landmark': 0,  # 返回83个人脸关键点（可选）
             'return_attributes': 'gender,age'  # 可以在检测时返回一些基础属性（可选）
         }
